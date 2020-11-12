@@ -7,14 +7,14 @@ yarn add -D tailwind-nth-child
 ```
 
 ```javascript
-plugins: [require('tailwindcss-nth-child')(['nth-child-3n', 'nth-child-n+3'])]
+plugins: [require('tailwindcss-nth-child')(['3n', 'n+3'])]
 ```
 
 ## Usage
 
 ```javascript
 variants: {
-  textColor: ({ after }) => after(['3n', 'n+3'])
+  textColor: ({ after }) => after(['nth-child-3n', 'nth-child-n+3'])
 }
 ```
 
