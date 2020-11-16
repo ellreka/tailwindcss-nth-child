@@ -9,6 +9,6 @@
     "url": "https://github.com/ellreka/tailwindcss-nth-child.git"
   },
   "devDependencies": {
-    "@ellreka/configs": "^1.1.5"
+    "@ellreka/configs": "1.1.5"
   }
 }
