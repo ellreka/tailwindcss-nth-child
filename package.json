@@ -1,6 +1,6 @@
 {
   "name": "@ellreka/tailwindcss-nth-child",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "ellreka",
   "main": "index.js",
   "license": "MIT",
