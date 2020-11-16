@@ -1,12 +1,14 @@
 # @ellreka/tailwindcss-nth-child
 
+Tailwind CSS plugin to generate [nth-child](https://developer.mozilla.org/docs/Web/CSS/:nth-child) variants
+
 ## Install
 
 ```bash
 yarn add -D @ellreka/tailwindcss-nth-child
 ```
 
-`tailwind.config.js`
+tailwind.config.js
 
 ```javascript
 plugins: [require('tailwindcss-nth-child')(['3n', '-n+3'])]
