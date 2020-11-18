@@ -17,7 +17,7 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
-"@ellreka/configs@^1.1.5":
+"@ellreka/configs@1.1.5":
   version "1.1.5"
   resolved "https://registry.yarnpkg.com/@ellreka/configs/-/configs-1.1.5.tgz#cbcebd8c81d2764ad8a7f41aa3afb60af0fe2d17"
   integrity sha512-ZGpspZsdG+NSB+/ln6kDOrT3C94mmrkITujBiNa7p24oLCvqCsWndO00I6aQA57qm6A4ps9U42CmiR0uoIuR6w==
